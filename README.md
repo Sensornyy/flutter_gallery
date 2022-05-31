@@ -1,0 +1,1 @@
+Test Flutter project for QuliSoft IT Development Company team from candidate Junior Flutter Developer Koriak Maksym.
